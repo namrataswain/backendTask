@@ -8,17 +8,26 @@ const info = require('./info')
 const url = 'https://o136z8hk40.execute-api.us-east-1.amazonaws.com/dev/get-list-of-conferences'
 
 request({ url: url }, (error, response) => {
- const data = JSON.parse(response.body)
-  //console.log(data);
-    const eventJSON = JSON.stringify(data, null, 4);
+   const data = JSON.parse(response.body)
+    const eventJSON = JSON.stringify(data, /*replacer */null,/* spacer */ 4);
   fs.writeFileSync('info.json', eventJSON);
+   printEvents(data.paid, "info")
+ 
 })
 
+const printEvents = (eventArray, fileName) => {
+    var eventsInfo = ""
+    eventArray.forEach(event => {
+        var eventInfo = "\"" + event.confName + "\", " +  event.confStartDate + "," + event.confStartDate + "," + event.city + "," + event.country + "," + event.entryType;
+        eventsInfo += eventInfo + "\n" 
+    });
+   
+     fs.writeFileSync(fileName + '.txt', eventsInfo)
+}
 
 yargs.command({
     command: 'findDup',
     describe :'finding duplicates',
-    
     handler: function (argv) {
        info.findDuplicates()
     }

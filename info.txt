@@ -1,0 +1,103 @@
+"Antarcticonf The Conference At The Edge Of The World", 05 Jan, 2020,05 Jan, 2020,San Antonio,Chile,Paid
+"Trion All India Bootcamp", 19 Jan, 2020,19 Jan, 2020,Delhi,India,Paid
+"DELIVERY CONF ", 21 Jan, 2020,21 Jan, 2020,Seattle,USA,Paid
+"AppSec California", 21 Jan, 2020,21 Jan, 2020,Santa Monica,USA,Paid
+"NDC Security 2020", 22 Jan, 2020,22 Jan, 2020,Oslo,Norway,Paid
+"Machine Learning Developers", 22 Jan, 2020,22 Jan, 2020,Bangalore,India,Paid
+"NDC London 2020 ", 27 Jan, 2020,27 Jan, 2020,London,England,Paid
+"Distributed Systems Conference ", 01 Feb, 2020,01 Feb, 2020,Pune,India,Paid
+"Data Business Congress 2020", 03 Feb, 2020,03 Feb, 2020,San Jose, USA,Paid
+"Microsoft Lgnite The Tour Washington", 06 Feb, 2020,06 Feb, 2020,Washington,US,Paid
+"Alexa Community Day Bengaluru 2020", 08 Feb, 2020,08 Feb, 2020,Bangalore,India,Paid
+"ANNUAL INTERNATIONAL CONFERENCE On Data Science Machine Learning Blockchain Technology", 12 Feb, 2020,12 Feb, 2020,Mysore, India,Paid
+"HR Tech", 15 Feb, 2020,15 Feb, 2020,Mumbai,India,Paid
+"Data Science Salon", 18 Feb, 2020,18 Feb, 2020,Austin, USA,Paid
+"PHP UK Conference 2020 ", 19 Feb, 2020,19 Feb, 2020,London,England,Paid
+"GraphQL Asia 2020", 20 Feb, 2020,20 Feb, 2020,Bengaluru,India,Paid
+"DevOpsCon London 2020", 22 Feb, 2020,22 Feb, 2020,London, UK,Paid
+"Software Architecture Conference", 25 Feb, 2020,25 Feb, 2020,New York, USA,Paid
+"PGConf India 2020", 26 Feb, 2020,26 Feb, 2020,Bangalore,India,Paid
+"QCon London", 02 Mar, 2020,02 Mar, 2020,London,UK,Paid
+"GOTO Oslo 2020", 03 Mar, 2020,03 Mar, 2020,oslo,norway,Paid
+"Devopsdays NYC 2020", 03 Mar, 2020,03 Mar, 2020,New York,USA,Paid
+"ScaleConf ", 05 Mar, 2020,05 Mar, 2020,Cape Town,South Africa,Paid
+"Namma Cloud Conference", 06 Mar, 2020,06 Mar, 2020,Bangalore,India,Paid
+" JavaScript Fwdays", 14 Mar, 2020,14 Mar, 2020,Kyiv, Ukraine,Paid
+"Agile India 2020", 15 Mar, 2020,15 Mar, 2020,Bangalore,India,Paid
+"DevOps Talks Conference Melbourne", 18 Mar, 2020,18 Mar, 2020,Melbourne,Australia,Paid
+"Devops Pro Europe 2020", 24 Mar, 2020,24 Mar, 2020,Vilnius, Lithuania,Paid
+"Dev Next", 24 Mar, 2020,24 Mar, 2020,Broomfield,USA,Paid
+"Scale Summit", 27 Mar, 2020,27 Mar, 2020,London, UK,Paid
+"Kubecon Cloudnative Europe", 30 Mar, 2020,30 Mar, 2020,Amsterdam,Netherlands,Paid
+"WORLD'S ORIGINAL ANGULAR CONFERENCE", 01 Apr, 2020,01 Apr, 2020,Salt Lake City,USA,Paid
+"DevOn Summit", 02 Apr, 2020,02 Apr, 2020,Utrecht,netherlands,Paid
+"DevOpsDays Toronto 2020", 16 Apr, 2020,16 Apr, 2020,Toronto, Canada,Paid
+"NDC Porto 2020", 21 Apr, 2020,21 Apr, 2020,Porto, Portugal,Paid
+" DEVOPS 2020", 21 Apr, 2020,21 Apr, 2020,Helsinki,Finland,Paid
+"React Day", 25 Apr, 2020,25 Apr, 2020,Bangalore,India,Paid
+"Red Hat Summit 2020 ", 27 Apr, 2020,27 Apr, 2020,San Francisco, USA,Paid
+"DevOps Conference", 29 Apr, 2020,29 Apr, 2020,Moscow,Russia,Paid
+"AWS Community Day", 29 Apr, 2020,29 Apr, 2020,Ahmedabad,India,Paid
+"MongoDB World 2020 ", 04 May, 2020,04 May, 2020,New York, USA,Paid
+"Devopsdays Austin", 04 May, 2020,04 May, 2020,Austin,US,Paid
+"ABOVE CLOUDS 2020", 09 May, 2020,09 May, 2020,Zagreb,CROATIA,Paid
+"IcingaConf2020", 23 June, 2020,23 June, 2020,Amsterdam,Netherlands,Paid
+"Ingram Micro Cloud Summit 2020 Cloud Summit", 12 May, 2020,12 May, 2020,Miami Beach, USA,Paid
+"Continuos Life Cycle London 2020", 13 May, 2020,13 May, 2020,London, UK,Paid
+"J On The Beach", 13 May, 2020,13 May, 2020,Málaga, Spain,Paid
+"IT Security Summit 2020 ", 18 May, 2020,18 May, 2020,Munich,Germany,Paid
+"DevSecCon", 27 May, 2020,27 May, 2020,Boston,USA,Paid
+"Newcrafts", 28 May, 2020,28 May, 2020,Paris, France,Paid
+"Agile Portugal ", 31 May, 2020,31 May, 2020,Porto,Portugal,Paid
+"ChefConf 2020", 01 Jun, 2020,01 Jun, 2020,Seattle, USA,Paid
+"Agile Devops West A Techwell Event", 07 Jun, 2020,07 Jun, 2020,Las Vegas,USA,Paid
+"Portland 2020", 08 Jun, 2020,08 Jun, 2020,Oregon City, USA,Paid
+"Craft Conference", 09 Jun, 2020,09 Jun, 2020,Budapest, Hungary,Paid
+"FlOW", 10 Jun, 2020,10 Jun, 2020,Utrecht,Netherlands,Paid
+"QCon", 15 Jun, 2020,15 Jun, 2020,New York,US,Paid
+"DockerCon", 15 Jun, 2020,15 Jun, 2020,Austin ,US,Paid
+"Internet Of Things Conference 2020", 17 Jun, 2020,17 Jun, 2020,Munich,Germany,Paid
+"Machine Learning Conference", 17 Jun, 2020,17 Jun, 2020,Munich,Germany,Paid
+"Bareos", 19 Jun, 2020,19 Jun, 2020,Berlin, Germany,Paid
+"DevOps Enterprise Summit", 23 Jun, 2020,23 Jun, 2020,London, UK,Paid
+"DevOps Enterprise Summit", 23 Jun, 2020,23 Jun, 2020,London, UK,Paid
+"DevOps India Summit", 10 Jul, 2020,10 Jul, 2020,Bengaluru,India,Paid
+"MongoDB Local Houston 2019 ", 20 Aug, 2020,20 Aug, 2020,Houston,Texas,Paid
+"IoTShow.in", 13 Feb, 2020,13 Feb, 2020, Bangalore,India,Paid
+"Machine Learning Developers", 30 Jan, 2020,30 Jan, 2020, Hyderabad,India,Paid
+"Title of conf", 07 May, 2020,07 May, 2020, Detroit,USA,Paid
+"self.conference", 08 May, 2020,08 May, 2020, Detroit,USA,Paid
+"Open UP Global Summit 2020", 12 Sept, 2020,12 Sept, 2020, Taipei,Taiwan,Paid
+"Car Summit", 07 April, 2020,07 April, 2020, San Jose,USA,Paid
+"Conversational Interaction Conference", 10 February, 2020,10 February, 2020, San Jose,USA,Paid
+"Speech Tek", 27 April, 2020,27 April, 2020, Washington D.C.,USA,Paid
+"One Voice Conference", 07 May, 2020,07 May, 2020, London,United Kingdom,Paid
+"Voice of Healthcare Summit", 05 August, 2020,05 August, 2020, Boston,USA,Paid
+"Frontend Developer Love", 05 August, 2020,05 August, 2020, Amsterdam, Netherlands,Paid
+"JSConf Mexico", 04 May, 2020,04 May, 2020, Mexico city, Mexico,Paid
+"Smart Commerce 2020", 29 January, 2020,29 January, 2020, kattilahalli ,  Helsinki,Paid
+"Business of BOTS", 05 February, 2020,05 February, 2020, San francisco ,  USA,Paid
+"Alexa Community Day", 08 February, 2020,08 February, 2020, Bangalore ,  India,Paid
+"Byteconf GraphQL 2020", 31 January, 2020,31 January, 2020,  ,  ,Paid
+"The Global Women in Data Science Hyderabad", 15 February, 2020,15 February, 2020, Hyderabad ,  India,Paid
+"collision", 22 June, 2020,22 June, 2020, Toronto ,   Canada,Paid
+"ng-India", 29 February, 2020,29 February, 2020, Delhi ,   India,Paid
+"Serverless Architecture Conference", 20 April, 2020,20 April, 2020, The Hague , Netherlands,Paid
+"Voxxed Days Singapore 2020", 05 June, 2020,05 June, 2020,  , Singapore,Paid
+"SuperBot 2020", 31 March, 2020,31 March, 2020, San Francisco , USA,Paid
+"DSConf 2020", 01 Feb, 2020,01 Feb, 2020,Pune, India,Paid
+"Doppa 2020", 27 June, 2020,27 June, 2020,Bangalore, India,Paid
+"Google Cloud Next", 06 April, 2020,06 April, 2020,San francisco, USA,Paid
+"AWS Summit Mumbai", 08 April, 2020,08 April, 2020,  Mumbai , India,Paid
+"AWS Summit Mumbai", 08 April, 2020,08 April, 2020,  Mumbai , India,Paid
+"IUI 2020", 17 March, 2020,17 March, 2020,  Cagliari ,  Italy,Paid
+"Security Architecture Conference", 21 February, 2020,21 February, 2020,Bangalore,India,Paid
+"HashiConf US", 13 October, 2020,13 October, 2020,San Diego,USA,Paid
+"HashiConf EU", 08 June, 2020,08 June, 2020,Amsterdam,Netherlands,Paid
+"HashiDays ", 06 April, 2020,06 April, 2020,Sydney NSW, Australia,Paid
+"Scrum Day Chennai ", 25 July, 2020,25 July, 2020,Chennai, India,Paid
+"JuliaCon 2020 ", 27 July, 2020,27 July, 2020,Lisbon,Portugal,Paid
+"REFACTOR 2020: Serverless ", 22 May, 2020,22 May, 2020,Toronto, Canada,Paid
+"GraphQL Summit ", 27 October, 2020,27 October, 2020,San Francisco, USA,Paid
+"React Day Norway", 26 June, 2020,26 June, 2020,Larvik,  Norway,Paid
+"Cloud Native Security Day", 30 March, 2020,30 March, 2020,Amsterdam,The Netherlands,Paid

@@ -13,40 +13,43 @@ const loadEvents = () => {
     }
 }
 
-const saveEvents = (notes) => {
-    const dataJSON = JSON.stringify(notes)
-    fs.writeFileSync('duplicate.json', dataJSON)
+const printEvents = (eventArray, fileName) => {
+    var eventsInfo = ""
+    eventArray.forEach(event => {
+        var eventInfo = "\"" + event.confName + "\", " +  event.confStartDate + "," + event.confStartDate + "," + event.city + "," + event.country + "," + event.entryType;
+        eventsInfo += eventInfo + "\n" 
+    });
+   
+     fs.writeFileSync(fileName + '.txt', eventsInfo)
 }
 
-//function to identify the duplicates 
+ //function to identify the duplicates 
 const findDuplicates =  () => {
-
     const result = []
     const events = loadEvents();
-    // console.log(events);
 
     var set = new Set();
     events.forEach(element => {
-        if (!set.has(element)) {
-            set.add(element)
-        }
-        else {
+        var eventAsAString = JSON.stringify(element)
+        if (!set.has(eventAsAString)){
+            set.add(eventAsAString)
+        } else {
             result.push(element)
         }
     });
+    
     if (result.length !== 0){
-        saveEvents(result)
+        printEvents(result, "duplicates")
         console.log('Duplicates were found')
-    }
-    else{
+    } else{
         console.log('No duplicates were found ')
     }
-   
-}
+} 
 
+//find the semantic dupliactes
 const findSemanticDup = (startDate, endDate, venue) =>{
    const events = loadEvents();
-  const semanticDuplicates = events.filter((event) => {
+   const semanticDuplicates = events.filter((event) => {
       return event.confStartDate === startDate && event.confEndDate === endDate && event.venue == venue ? true : false;
   })
   if (semanticDuplicates.length === 0) {
@@ -54,12 +57,13 @@ const findSemanticDup = (startDate, endDate, venue) =>{
   }
   else{
       console.log('Similar/same event detected')
-      saveEvents(semanticDuplicates)
+      printEvents(semanticDuplicates, "semantic_duplicates")
   }
 }
 
 
 module.exports = {
     findDuplicates: findDuplicates,
-    findSemanticDup : findSemanticDup
+    findSemanticDup : findSemanticDup,
+    printEvents : printEvents
 }
