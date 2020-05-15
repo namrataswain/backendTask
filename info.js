@@ -46,7 +46,7 @@ const findDuplicates =  () => {
     }
 } 
 
-//find the semantic dupliactes
+//find the semantic duplicates
 const findSemanticDup = (startDate, endDate, venue) =>{
    const events = loadEvents();
    const semanticDuplicates = events.filter((event) => {
